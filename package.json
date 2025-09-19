@@ -1,0 +1,20 @@
+{
+  "name": "module17_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getPercents.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nox1ee/module17_homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nox1ee/module17_homework/issues"
+  },
+  "homepage": "https://github.com/Nox1ee/module17_homework#readme"
+}
